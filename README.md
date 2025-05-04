@@ -1,5 +1,4 @@
-
-# Following svpino's setup Mac Mini M4 for Pytorch, Tensorflow and JAX
+# Following svpino's repository, setup Mac Mini M4 for Pytorch, Tensorflow and JAX
 I just bought a Mac Mini M4 and I wanted to verify my Python setup for runing my AI work on the M4 chip.  I found [svpino's](https://github.com/svpino) repository [apple-silicon](https://github.com/svpino/apple-silicon).  First I watched the [youtube video](https://www.youtube.com/watch?v=cGEIEnekmRM&t=325s) then I decided to try this myself. 
 
 # initial installations
